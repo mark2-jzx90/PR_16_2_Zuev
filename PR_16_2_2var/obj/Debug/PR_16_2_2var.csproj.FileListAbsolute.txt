@@ -1,0 +1,15 @@
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\PR_16_2_2var.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\MainWindow.g.cs
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\App.g.cs
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\PR_16_2_2var_MarkupCompile.cache
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\PR_16_2_2var_MarkupCompile.lref
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\bin\Debug\PR_16_2_2var.exe.config
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\bin\Debug\PR_16_2_2var.exe
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\bin\Debug\PR_16_2_2var.pdb
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\MainWindow.baml
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\PR_16_2_2var.g.resources
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\PR_16_2_2var.Properties.Resources.resources
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\PR_16_2_2var.csproj.GenerateResource.cache
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\PR_16_2_2var.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\PR_16_2_2var.exe
+C:\Users\305-10\Desktop\Pr_21\PR_16_2_2var\obj\Debug\PR_16_2_2var.pdb
